@@ -1,13 +1,13 @@
 {
   "schemaVersion": "1.0",
-  "slug": "landing-page",
-  "name": "Landing Page",
-  "description": "Framework-neutral HTML source for a focused marketing landing page.",
-  "category": "Marketing",
-  "tags": ["html", "landing-page", "marketing"],
+  "slug": "base-template",
+  "name": "ByteDesk Template Base",
+  "description": "Base standardized HTML package for ByteDesk site templates.",
+  "category": "Base",
+  "tags": ["html", "base", "template"],
   "version": "2026.05.14",
   "supportedStacks": ["nextJs"],
   "pages": [{ "path": "index.html", "title": "Home" }],
   "previewImage": "assets/preview.svg",
-  "interviewGuide": "Ask about the offer, target audience, proof points, lead capture, and calls to action."
+  "interviewGuide": "Use this as the standardized starting point. Ask what audience, content, pages, assets, and conversion goals should be customized."
 }
