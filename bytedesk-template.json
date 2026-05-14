@@ -1,1 +1,13 @@
-{\n  "schemaVersion": "1.0",\n  "slug": "landing-page",\n  "name": "Landing Page",\n  "description": "Framework-neutral HTML source for a focused marketing landing page.",\n  "category": "Marketing",\n  "tags": ["html", "landing-page", "marketing"],\n  "version": "2026.05.14",\n  "supportedStacks": ["nextJs"],\n  "pages": [{ "path": "index.html", "title": "Home" }],\n  "previewImage": "assets/preview.svg",\n  "interviewGuide": "Ask about the offer, target audience, proof points, lead capture, and calls to action."\n}\n
+{
+  "schemaVersion": "1.0",
+  "slug": "landing-page",
+  "name": "Landing Page",
+  "description": "Framework-neutral HTML source for a focused marketing landing page.",
+  "category": "Marketing",
+  "tags": ["html", "landing-page", "marketing"],
+  "version": "2026.05.14",
+  "supportedStacks": ["nextJs"],
+  "pages": [{ "path": "index.html", "title": "Home" }],
+  "previewImage": "assets/preview.svg",
+  "interviewGuide": "Ask about the offer, target audience, proof points, lead capture, and calls to action."
+}
