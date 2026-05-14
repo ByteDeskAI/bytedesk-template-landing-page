@@ -1,1 +1,5 @@
-# Landing Page\n\nFramework-neutral HTML source for a focused marketing landing page.\n\nThis repository is a ByteDesk standardized HTML template package. It is intentionally framework-neutral so consuming workspaces can convert it to Next.js or future supported runtimes.\n
+# Landing Page
+
+Framework-neutral HTML source for a focused marketing landing page.
+
+This repository is a ByteDesk standardized HTML template package. It is intentionally framework-neutral so consuming workspaces can convert it to Next.js or future supported runtimes.
